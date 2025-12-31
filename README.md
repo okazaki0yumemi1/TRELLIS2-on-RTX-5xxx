@@ -42,7 +42,7 @@ I was unable to run TRELLIS.2 on RTX 5070 due to lack of VRAM. Try TRELLIS inste
    o-voxel
    flexgemm
    ```
-   To solve them, you have to download Wheels for Python 3.12 manually and install them via 
+   To solve them, you have to download Wheels for Python 3.12 from Releases tab on this repo manually and install them via 
    ```
    pip install /path/to/your/file.whl
    ```
