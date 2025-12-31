@@ -1,5 +1,5 @@
 # TRELLIS2-on-RTX-5xxx
-A quick setup guide on setting up TRELLIS.2 on Ada Lovelace GPUs.
+A quick setup guide on setting up TRELLIS.2 on Blackwell GPUs.
 
 # Why?
 Because I encountered a lot of erros during default install process on Debian 13. I solved them so you don't have to.
